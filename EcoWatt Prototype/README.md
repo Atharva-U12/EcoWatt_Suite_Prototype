@@ -22,4 +22,3 @@ It also provides personalized energy-saving recommendations and visual insights 
 
 ---
 
-## 🧪 Project Structure
